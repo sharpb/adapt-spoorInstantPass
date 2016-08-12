@@ -1,0 +1,20 @@
+{
+    "name": "adapt-spoorInstantPass",
+    "repository": "git://github.com/sharpb/adapt-spoorInstantPass.git",
+    "framework": "^2.0.0",
+    "version": "1.0.0",
+    "homepage": "https://github.com/sharpb/adapt-spoorInstantPass",
+    "issues": "https://github.com/sharpb/adapt-spoorInstantPass/issues/",
+    "displayName": "Spoor - instant pass",
+    "extension": "spoorinstantpass",
+    "authors": [
+        "Ben Sharp"
+    ],
+    "description": "Uses Spoor to set the SCORM lesson status to passed on course launch.",
+    "main": "/js/adapt-spoorInstantPass.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
